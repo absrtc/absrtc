@@ -1,5 +1,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/699353540585586759?borderRadius=8px&theme=dark)](https://discord.com/users/699353540585586759)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=absrtc&theme=dark)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=true%22)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=absrtc&label=Profile%20views&color=0e75b6&style=flat" alt="absrtc" />
