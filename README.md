@@ -1,25 +1,22 @@
 # Hey! I'm Abstract 👋
 I'm abstract, also known as axis. I create frontend applications and websites for people!
 
+<div align="center" style="margin-top: 10px">
 I am experienced with:
 
 Next.JS
-
 React
-
 Vite
-
 Cue
 
 Tailwind CSS
-
 Plain CSS
 
 Tauri
-
 Electron
 
-If you need to contact me: My Discord is @axis.s
+If you need to contact me: My Discord is **@axis.s**
+</div>
 
 <div align="center" style="margin-top: 10px">
     <img src="https://lanyard.cnrad.dev/api/699353540585586759?borderRadius=8px&theme=dark)](https://discord.com/users/699353540585586759">
