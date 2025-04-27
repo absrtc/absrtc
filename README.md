@@ -1,3 +1,4 @@
+<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/699353540585586759?borderRadius=8px&theme=dark)](https://discord.com/users/699353540585586759)
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=true%22)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -7,7 +8,6 @@
 
 ---
 
-<div align="center">
     <img 
         src="https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=58A6FF&rank_icon=github&title_color=58A6FF" 
         width="500px" 
