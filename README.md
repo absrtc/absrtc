@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="margin-bottom: 10px">
     <img src="https://lanyard.cnrad.dev/api/699353540585586759?borderRadius=8px&theme=dark)](https://discord.com/users/699353540585586759">
 </div>
 
