@@ -8,7 +8,7 @@
 
 <div align="center">
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=58A6FF&rank_icon=github&title_color=58A6FF" 
+        src="https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=false&rank_icon=github&title_color=58A6FF" 
         style="margin: 10px 0; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);">
 </div>
 
