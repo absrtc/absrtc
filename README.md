@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column;">
     <img src="https://lanyard.cnrad.dev/api/699353540585586759?borderRadius=8px&theme=dark)](https://discord.com/users/699353540585586759">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=true%22">
     <img src="https://komarev.com/ghpvc/?username=absrtc&label=Profile%20views&color=0e75b6&style=flat" alt="absrtc" />
