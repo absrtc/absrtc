@@ -1,20 +1,8 @@
 {
-  "posts": {
-    "1": {
-      "author": "abstract",
-      "date": "2024-12-21",
-      "message": "Thank you all for supporting Astra as we offically release to the public. We will try to fix all bugs possible, but in the mean time have fun playing! Make sure you stay active in our discord server for updates, giveaways, new item shops, status, and more.",
-      "title": "Astra OG",
-      "tags": "RELEASE, NEW, ASTRA, UPDATE, OG",
-      "visible": true
-    },
-    "2": {
-      "author": "abstract",
-      "date": "2024-11-12",
-      "message": "Thank you for supporting Astra as we slowly push out our release, everything will be stable soon! Donations will be coming soon, with tons of amazing perks that you can purchase!",
-      "title": "A Message from the Astra Team",
-      "tags": "MESSAGE, ASTRA, RELEASE, NEW",
-      "visible": true
-    }
-  }
+    "author": "Axis",
+    "date": "2025-04-28",
+    "message": "test news",
+    "title": "added feature",
+    "image": "https://cdn.discordapp.com/attachments/1071550519262326925/1366577953080872990/promo1.jpg?ex=68117465&is=681022e5&hm=93fa3894935b7cd0db956165a5fc3c770ae187193549962180a87a43d8fe35e7&",
+    "visible": true
 }
