@@ -1,21 +1,8 @@
 # Hey! I'm Abstract 👋
-I'm abstract, also known as axis. I create frontend applications and websites for people!
+I create frontend applications and websites for people!
 
 <div align="center" style="margin-top: 10px">
-I am experienced with:
-
-Next.JS
-React
-Vite
-Cue
-
-Tailwind CSS
-Plain CSS
-
-Tauri
-Electron
-
-If you need to contact me: My Discord is **@axis.s**
+If you need to contact me: My Discord is **@netcable**
 </div>
 
 <div align="center" style="margin-top: 10px">
