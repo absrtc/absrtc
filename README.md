@@ -7,10 +7,12 @@
 ## 📬 Contact Me
 
 <div align="center">
-<p>- Discord: **@netcable**</p>
-<p>- Website: [netcable.dev](https://netcable.dev)</p>
-<p>- WakaTime: [@abstract](https://wakatime.com/@abstract)</p>
-<p>- Discord Server: [CrystalFN](https://discord.gg/crystalfn)</p>
+
+**Discord:** `@netcable`  
+🌐 [netcable.dev](https://netcable.dev)  
+⏱ [WakaTime Profile](https://wakatime.com/@abstract)  
+🌟 [Join my Discord](https://discord.gg/crystalfn)
+
 </div>
 
 <div align="center">
@@ -27,14 +29,16 @@
   <img src="https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg" alt="WakaTime badge" />
 </div>
 
-- 🧪 React, TypeScript, Tailwind CSS, Next.js  
-- 🖥️ Tauri, Vite, Electron
+- ⚛️ React, TypeScript, Tailwind CSS, Next.js  
+- ⚡ Vite, Tauri, Electron  
+- 🧩 Zustand, Framer Motion  
+- 🖥️ Unity, Lua (Roblox), C#
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center" style="margin-top: 10px;">
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=false&title_color=58A6FF&icon_color=F8D866" 
     alt="absrtc's GitHub stats" 
@@ -49,3 +53,4 @@
 </div>
 
 ---
+
