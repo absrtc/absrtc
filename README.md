@@ -14,8 +14,7 @@
 <div align="center">
   <img 
     src="https://dsc-readme.tsuni.dev/api/user/699353540585586759?aboutMe=https%3A%2F%2Fwakatime.com%2F%40abstract%0Ahttps%3A%2F%2Fnetcable.dev%2F%0Ahttps%3A%2F%2Fdiscord.gg%2Fcrystalfn&theme=nitroDark&primaryColor=E1FF00&accentColor=EEFF00&width=512" 
-    alt="netcable's Discord status" 
-    width="400px" />
+    alt="netcable's Discord status" />
 </div>
 
 ---
