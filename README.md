@@ -7,6 +7,7 @@ If you need to contact me: My Discord is **@netcable**
 
 <div align="center" style="margin-top: 10px">
     <img src="https://komarev.com/ghpvc/?username=absrtc&label=Profile%20views&color=157fec&style=flat" alt="absrtc" />
+    <a href="https://wakatime.com/@5d94cee4-0f58-46bb-a593-b5e5e1bcc61a"><img src="https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg" alt="Total time coded since May 1 2025" /></a>
 </div>
 
 <div align="center" style="margin-top: 10px">
