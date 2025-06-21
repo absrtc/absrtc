@@ -10,8 +10,8 @@
 
 **Discord:** `@netcable`  
 🌐 [netcable.dev](https://netcable.dev)  
-⏱ [WakaTime Profile](https://wakatime.com/@abstract)  
-🌟 [Join my Discord](https://discord.gg/crystalfn)
+⏱ [WakaTime](https://wakatime.com/@abstract)  
+🌟 [Crystal](https://discord.gg/crystalfn)
 
 </div>
 
