@@ -32,8 +32,6 @@
 
 - ⚛️ React, TypeScript, Tailwind CSS, Next.js  
 - ⚡ Vite, Tauri, Electron  
-- 🧩 Zustand, Framer Motion  
-- 🖥️ Unity, Lua (Roblox), C#
 
 ---
 
