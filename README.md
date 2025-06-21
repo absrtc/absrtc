@@ -5,8 +5,9 @@ I create frontend applications and websites for people!
 If you need to contact me: My Discord is **@netcable**
 </div>
 
+[![netcable's Discord status](https://dsc-readme.tsuni.dev/api/user/699353540585586759?aboutMe=https%3A%2F%2Fwakatime.com%2F%40abstract%0Ahttps%3A%2F%2Fnetcable.dev%2F%0Ahttps%3A%2F%2Fdiscord.gg%2Fcrystalfn&theme=nitroDark&primaryColor=E1FF00&accentColor=EEFF00&width=512)
+
 <div align="center" style="margin-top: 10px">
-    [![netcable's Discord status](https://dsc-readme.tsuni.dev/api/user/699353540585586759?aboutMe=https%3A%2F%2Fwakatime.com%2F%40abstract%0Ahttps%3A%2F%2Fnetcable.dev%2F%0Ahttps%3A%2F%2Fdiscord.gg%2Fcrystalfn&theme=nitroDark&primaryColor=E1FF00&accentColor=EEFF00&width=512)](https://github.com/TetraTsunami/discord-github-preview)
     <a href="https://wakatime.com/@5d94cee4-0f58-46bb-a593-b5e5e1bcc61a"><img src="https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg" alt="Total time coded since May 1 2025" /></a>
 </div>
 
