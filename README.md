@@ -6,10 +6,12 @@
 
 ## 📬 Contact Me
 
+<div align="center">
 - Discord: **@netcable**
 - Website: [netcable.dev](https://netcable.dev)
 - WakaTime: [@abstract](https://wakatime.com/@abstract)
 - Discord Server: [CrystalFN](https://discord.gg/crystalfn)
+</div>
 
 <div align="center">
   <img 
