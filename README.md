@@ -26,6 +26,7 @@
 ## 🧠 What I Use
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=absrtc&label=Profile%20views&color=157fec&style=flat" alt="absrtc" />
   <img src="https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg" alt="WakaTime badge" />
 </div>
 
