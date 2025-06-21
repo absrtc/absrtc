@@ -1,20 +1,50 @@
-# Hey! I'm Abstract 👋
-I create frontend applications and websites for people!
+# 👋 Hey there! I'm Abstract
 
-<div align="center" style="margin-top: 10px">
-If you need to contact me: My Discord is **@netcable**
-</div>
+🎨 I build beautiful **frontend apps** and **websites** for people!
 
-![netcable's Discord status](https://dsc-readme.tsuni.dev/api/user/699353540585586759?aboutMe=https%3A%2F%2Fwakatime.com%2F%40abstract%0Ahttps%3A%2F%2Fnetcable.dev%2F%0Ahttps%3A%2F%2Fdiscord.gg%2Fcrystalfn&theme=nitroDark&primaryColor=E1FF00&accentColor=EEFF00&width=512)
-<a href="https://wakatime.com/@5d94cee4-0f58-46bb-a593-b5e5e1bcc61a"><img src="https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg" alt="Total time coded since May 1 2025" /></a>
-
-<div align="center" style="margin-top: 10px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=true%22">
-</div>
 ---
 
+## 📬 Contact Me
+
+- Discord: **@netcable**
+- Website: [netcable.dev](https://netcable.dev)
+- WakaTime: [@abstract](https://wakatime.com/@abstract)
+- Discord Server: [CrystalFN](https://discord.gg/crystalfn)
+
 <div align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=false&title_color=58A6FF" 
-        style="margin: 10px 0; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);">
+  <img 
+    src="https://dsc-readme.tsuni.dev/api/user/699353540585586759?aboutMe=https%3A%2F%2Fwakatime.com%2F%40abstract%0Ahttps%3A%2F%2Fnetcable.dev%2F%0Ahttps%3A%2F%2Fdiscord.gg%2Fcrystalfn&theme=nitroDark&primaryColor=E1FF00&accentColor=EEFF00&width=512" 
+    alt="netcable's Discord status" 
+    width="400px" />
 </div>
+
+---
+
+## 🧠 What I Use
+
+<div align="center">
+  <img src="https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg" alt="WakaTime badge" />
+</div>
+
+- 🧪 React, TypeScript, Tailwind CSS, Next.js  
+- 🖥️ Tauri, Vite, Electron
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center" style="margin-top: 10px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=false&title_color=58A6FF&icon_color=F8D866" 
+    alt="absrtc's GitHub stats" 
+    width="450px" />
+
+  <br />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=true" 
+    alt="Top languages" 
+    width="350px" />
+</div>
+
+---
