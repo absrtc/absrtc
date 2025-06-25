@@ -1,60 +1,62 @@
-# 👋 Hey there! I'm Abstract
+# 👋 Hey, I'm Abstract  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=435&lines=I+build+frontend+experiences)
 
 ---
 
-## 📬 Contact Me
-
+## 📬 Contact  
 <div align="center">
-
-**Discord:** `@netcable`  
-🌐 [netcable.dev](https://netcable.dev)  
-⏱ [WakaTime](https://wakatime.com/@abstract)  
-🌟 [Crystal](https://discord.gg/crystalfn)
-
+  <code>Discord:</code> <strong>@netcable</strong> •  
+  🌐 <a href="https://netcable.dev">netcable.dev</a> •  
+  ⏱ <a href="https://wakatime.com/@abstract">WakaTime</a> •  
+  🌟 <a href="https://discord.gg/crystalfn">Crystal</a>
 </div>
 
-<div align="center">
-  <img 
-    src="https://dsc-readme.tsuni.dev/api/user/699353540585586759?aboutMe=https%3A%2F%2Fwakatime.com%2F%40abstract%0Ahttps%3A%2F%2Fnetcable.dev%2F%0Ahttps%3A%2F%2Fdiscord.gg%2Fcrystalfn&theme=nitroDark&primaryColor=E1FF00&accentColor=EEFF00&width=512" 
-    alt="netcable's Discord status" />
-</div>
+<p align="center">
+  <img src="https://dsc-readme.tsuni.dev/api/user/699353540585586759?theme=nitroDark&primaryColor=E1FF00&accentColor=EEFF00&width=512" alt="Discord status" />
+</p>
 
 ---
 
-## 🧠 What I Use
+## 🧠 Stack & Stats  
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-grey?style=flat&logo=TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-grey?style=flat&logo=Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-grey?style=flat&logo=TailwindCSS" />
+  <img src="https://img.shields.io/badge/Vite-grey?style=flat&logo=Vite" />
+  <img src="https://img.shields.io/badge/Electron-grey?style=flat&logo=Electron" />
+  <img src="https://img.shields.io/badge/Tauri-grey?style=flat&logo=Tauri" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=absrtc&label=Profile%20views&color=157fec&style=flat" alt="absrtc" />
-  <img src="https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg" alt="WakaTime Hours" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=absrtc&label=Profile%20views&color=157fec&style=flat" />
+  <img src="https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg" />
+</p>
 
-
-![TypeScript]( https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=TypeScript)
-![Next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=Next.js) 
-![Tauri](https://img.shields.io/badge/tauri-grey?style=for-the-badge&logo=tauri)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-grey?style=for-the-badge&logo=Tailwind%20CSS) 
-![Vite](https://img.shields.io/badge/Vite-grey?style=for-the-badge&logo=Vite)
-![Electron](https://img.shields.io/badge/Electron-grey?style=for-the-badge&logo=Electron)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=F8D866" width="430px" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=true" width="330px" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streaks & Trophies  
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=false&title_color=58A6FF&icon_color=F8D866" 
-    alt="absrtc's GitHub stats" 
-    width="450px" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=absrtc&theme=dark&hide_border=true" width="490px" />
+</p>
 
-  <br />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=absrtc&theme=algolia&no-frame=true&column=6&margin-w=10" />
+</p>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=true" 
-    alt="Top languages" 
-    width="350px" />
-</div>
+---
+
+## 📌 Pinned Project
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=absrtc&repo=AxisLauncher&theme=dark&hide_border=true" />
+</p>
 
 ---
 
