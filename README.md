@@ -19,7 +19,7 @@
 ![Tauri](https://img.shields.io/badge/Tauri-grey?style=for-the-badge&logo=Tauri)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=absrtc&label=Profile%20views&color=157fec&style=for-the-badge)  
-[![WakaTime](https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg)](https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg?style=for-the-badge)
+[![WakaTime](https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg?style=for-the-badge)](https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg?style=for-the-badge)
 ---
 
 **GitHub Stats:**  
