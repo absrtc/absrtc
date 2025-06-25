@@ -31,10 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=true" width="330px" />
 </p>
 
----
-
-## 🔥 GitHub Streaks & Trophies  
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=absrtc&theme=dark&hide_border=true" width="490px" />
 </p>
@@ -42,9 +38,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=absrtc&theme=algolia&no-frame=true&column=6&margin-w=10" />
 </p>
-
----
-
+--- 
 ## 📌 Pinned Project
 
 <p align="center">
