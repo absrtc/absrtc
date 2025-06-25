@@ -9,7 +9,6 @@
 
 ## 🧠 Stack & Stats
 
-**Tech I Use:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=flat&logo=TypeScript)
 ![Next.js](https://img.shields.io/badge/Next.js-grey?style=flat&logo=Next.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-grey?style=flat&logo=TailwindCSS)
@@ -17,16 +16,11 @@
 ![Electron](https://img.shields.io/badge/Electron-grey?style=flat&logo=Electron)
 ![Tauri](https://img.shields.io/badge/Tauri-grey?style=flat&logo=Tauri)
 
-**Activity & Metrics:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=absrtc&label=Profile%20views&color=157fec&style=flat)  
 ![WakaTime](https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg)
 ---
 
 **GitHub Stats:**  
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=F8D866) 
-
-
-
-
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=true)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=false)  
