@@ -9,8 +9,10 @@
 
 ## 🧠 Stack & Stats
 
-![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=flat&logo=TypeScript)
-![Next.js](https://img.shields.io/badge/Next.js-grey?style=flat&logo=Next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-2C8EBB?style=for-the-badge&logo=bun&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-grey?style=flat&logo=TailwindCSS)
 ![Vite](https://img.shields.io/badge/Vite-grey?style=flat&logo=Vite)
 ![Electron](https://img.shields.io/badge/Electron-grey?style=flat&logo=Electron)
@@ -22,7 +24,7 @@
 
 **GitHub Stats:**  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=F8D866) 
+![Stats](https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=F8D866) 
 
 
 
