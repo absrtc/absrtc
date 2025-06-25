@@ -35,13 +35,4 @@
   <img src="https://streak-stats.demolab.com?user=absrtc&theme=dark&hide_border=true" width="490px" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=absrtc&theme=algolia&no-frame=true&column=6&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=absrtc&repo=AxisLauncher&theme=dark&hide_border=true" />
-</p>
-
----
 
