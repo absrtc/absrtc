@@ -20,8 +20,8 @@
 **Activity & Metrics:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=absrtc&label=Profile%20views&color=157fec&style=flat)  
 ![WakaTime](https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg)
+---
 
 **GitHub Stats:**  
 ![Stats](https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=F8D866)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=true)  
-![Streaks](https://streak-stats.demolab.com?user=absrtc&theme=dark&hide_border=true)
