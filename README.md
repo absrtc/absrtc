@@ -38,8 +38,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=absrtc&theme=algolia&no-frame=true&column=6&margin-w=10" />
 </p>
---- 
-## 📌 Pinned Project
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=absrtc&repo=AxisLauncher&theme=dark&hide_border=true" />
