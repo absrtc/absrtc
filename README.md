@@ -3,11 +3,6 @@
 
 ---
 
-## 📬 Contact  
-<div align="center">
-  ⏱ <a href="https://wakatime.com/@abstract">WakaTime</a> •  
-  🌟 <a href="https://discord.gg/crystalfn">Crystal</a>
-</div>
 
 <p align="center">
   <img src="https://dsc-readme.tsuni.dev/api/user/699353540585586759?theme=nitroDark&primaryColor=E1FF00&accentColor=EEFF00&width=512" alt="Discord status" />
