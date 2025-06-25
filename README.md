@@ -25,11 +25,3 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=F8D866)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=true)  
 ![Streaks](https://streak-stats.demolab.com?user=absrtc&theme=dark&hide_border=true)
-
----
-
-## 🎧 Now Playing on Spotify
-
-![Now Playing](https://spotify-now-playing-hazel.vercel.app/api/spotify)
-
----
