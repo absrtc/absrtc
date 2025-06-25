@@ -5,8 +5,6 @@
 
 ## 📬 Contact  
 <div align="center">
-  <code>Discord:</code> <strong>@netcable</strong> •  
-  🌐 <a href="https://netcable.dev">netcable.dev</a> •  
   ⏱ <a href="https://wakatime.com/@abstract">WakaTime</a> •  
   🌟 <a href="https://discord.gg/crystalfn">Crystal</a>
 </div>
