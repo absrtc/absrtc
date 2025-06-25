@@ -30,8 +30,14 @@
   <img src="https://wakatime.com/badge/user/5d94cee4-0f58-46bb-a593-b5e5e1bcc61a.svg" alt="WakaTime Hours" />
 </div>
 
-- ⚛️ React, TypeScript, Tailwind CSS, Next.js  
-- ⚡ Vite, Tauri, Electron  
+
+![TypeScript]( https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=TypeScript)
+![Next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=Next.js) 
+![Tauri](https://img.shields.io/badge/tauri-grey?style=for-the-badge&logo=tauri)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-grey?style=for-the-badge&logo=Tailwind%20CSS) 
+ ![Vite](https://img.shields.io/badge/Vite-grey?style=for-the-badge&logo=Vite 
+![Electron](https://img.shields.io/badge/Electron-grey?style=for-the-badge&logo=Electron)
+
 
 ---
 
