@@ -35,7 +35,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=Next.js) 
 ![Tauri](https://img.shields.io/badge/tauri-grey?style=for-the-badge&logo=tauri)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-grey?style=for-the-badge&logo=Tailwind%20CSS) 
- ![Vite](https://img.shields.io/badge/Vite-grey?style=for-the-badge&logo=Vite 
+![Vite](https://img.shields.io/badge/Vite-grey?style=for-the-badge&logo=Vite)
 ![Electron](https://img.shields.io/badge/Electron-grey?style=for-the-badge&logo=Electron)
 
 
