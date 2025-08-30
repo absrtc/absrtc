@@ -1,12 +1,4 @@
 # 👋 Hey, I'm Abstract  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=I+build+frontend+apps)
-
----
-
-![Discord status](https://dsc-readme.tsuni.dev/api/user/699353540585586759?theme=nitroDark&primaryColor=E1FF00&accentColor=EEFF00&width=512)
-
----
-
 ## 🧠 Stack & Stats
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
