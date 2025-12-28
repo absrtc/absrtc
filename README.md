@@ -16,11 +16,11 @@
 
 **GitHub Stats:**  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=absrtc&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&icon_color=58A6FF&rank_icon=github&title_color=58A6FF)
+![Stats](https://github-stats-alpha.vercel.app/api?username=absrtc&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&icon_color=58A6FF&rank_icon=github&title_color=58A6FF)
 
 
 
 
 
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=false)  
+![Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=absrtc&layout=compact&theme=highcontrast&hide_border=false)  
